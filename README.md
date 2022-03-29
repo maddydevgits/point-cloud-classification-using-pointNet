@@ -9,3 +9,5 @@ Official Repo of a project Point Cloud Classification using PointNet
 5. Trimesh
 
 
+# Output
+<img src="download.png" />
